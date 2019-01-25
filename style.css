@@ -1,9 +1,9 @@
 html {
-  background-color:Yellow
+  background-color:yellow
 }
-p {
+p{
 color: Black;
-font-size: 60px;
+font-size: 120px;
 font-type: Helvetica
 }
 
@@ -11,4 +11,7 @@ h1 {
   color:Blue
   font-size: ;
   font-type:Helvetica
+}
+h2 {
+  color:red
 }
