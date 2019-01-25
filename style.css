@@ -4,3 +4,9 @@ color: Black;
 font-size: 60px;
 font-type: Helvetica
 }
+
+h1 {
+  color:Blue
+  font-size: 2rem;
+  font-type:Helvetica
+}
