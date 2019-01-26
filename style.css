@@ -1,9 +1,9 @@
 html {
   background-color:#8effe2
+  justify-content: center;
 }
 p{
 border: 2px solid black;
-justify-content: center;
 color: Black;
 font-size: 60px;
 font-type: Courier New
