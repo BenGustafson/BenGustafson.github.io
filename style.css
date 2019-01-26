@@ -1,6 +1,9 @@
 html {
   border: 30px solid black;
   padding: 60px;
+  
+}
+body{
   font-style: courier;
 }
 
