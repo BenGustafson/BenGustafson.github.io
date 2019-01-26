@@ -1,6 +1,9 @@
 html {
-  background-color:#8effe2;
-  padding: 20px;
+  background: #0F2737;
+background: -moz-linear-gradient(left, #0F2737 0%, #3CE5E3 50%, #74DAE7 100%);
+background: -webkit-linear-gradient(left, #0F2737 0%, #3CE5E3 50%, #74DAE7 100%);
+background: linear-gradient(to right, #0F2737 0%, #3CE5E3 50%, #74DAE7 100%);
+  padding: 30px;
 }
 
 p{
