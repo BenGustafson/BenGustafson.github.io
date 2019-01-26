@@ -11,16 +11,17 @@ border: 10px solid black;
 justify-content: center;
 font-size: 60px;
 font-color:white;
-font-family: Georgia, serif;
+font-style: courier;
+
 
 }
 
 h1 {
   font-size: 60px;
-  font-type:Courier;
+  font-style:Courier;
 }
 
 h2 {
   font-size: 60px;
-  font-type:courier;
+  font-style:courier;
 }
