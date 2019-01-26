@@ -2,17 +2,19 @@ html {
   background-color:#8effe2
 }
 p{
-justify:center;
+justify-content:center;
 color: Black;
 font-size: 60px;
-font-type: helvetica
+font-type: Courier New
 }
 
 h1 {
   color:Black
   font-size: 60px;
-  font-type:Helvetica
+  font-type: Courier New
 }
 h2 {
   color:Black
+  font-size: 60px
+  font-type: Courier New
 }
