@@ -2,16 +2,17 @@ html {
   background-color:#8effe2
 }
 p{
+justify:center;
 color: Black;
 font-size: 60px;
-font-type: Helvetica
+font-type: helvetica
 }
 
 h1 {
-  color:blue
-  font-size: ;
+  color:Black
+  font-size: 60px;
   font-type:Helvetica
 }
 h2 {
-  color:red
+  color:Black
 }
