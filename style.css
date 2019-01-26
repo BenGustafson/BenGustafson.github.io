@@ -1,21 +1,23 @@
 html {
   background-color:#8effe2
-  justify-content: center;
+  
 }
 p{
 border: 2px solid black;
-color: Black;
+color: black;
 font-size: 60px;
-font-type: Courier New
+font-type: Courier New;
+justify-content: center;
 }
 
 h1 {
-  color:Black
+  color:black
   font-size: 60px;
-  font-type: Courier New
+  font-type: Courier New;
 }
+
 h2 {
-  color:Black
-  font-size: 60px
-  font-type: Courier New
+  color:black
+  font-size: 60px;
+  font-type: Courier New;
 }
