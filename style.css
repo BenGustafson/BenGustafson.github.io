@@ -4,7 +4,7 @@ html {
   font-style: courier;
 }
 
-title{
+name{
   border: 10px double black;
 
   font-size: 60px;
@@ -16,9 +16,9 @@ p{
 }
 
 h1 {
-  font-size: 60px;
+  font-size: 45px;
 }
 
 h2 {
-  font-size: 60px;
+  font-size: 45px;
 }
