@@ -5,13 +5,12 @@ html {
 }
 
 name{
-  border: 10px double black;
-
-  font-size: 60px;
-  font-color:white;
+ border: 20px double black;
+ font-size: 60px;
 }
 
 p{
+  align:center
   font-size:30px
 }
 
