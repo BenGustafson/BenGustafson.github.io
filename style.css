@@ -10,10 +10,11 @@ body{
 name{
  border: 20px double black;
  font-size: 60px;
+ text-align:center
 }
 
 p{
-  align:center
+  text-align:center
   font-size:30px
 }
 p2head{
