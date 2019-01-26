@@ -8,9 +8,8 @@ body{
 }
 
 name{
- border: 20px double black;
- font-size: 60px;
  text-align:center;
+ font-size: 60px;
 }
 
 p{
