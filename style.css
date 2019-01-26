@@ -1,8 +1,8 @@
 html {
-  background: #0F2737;
-background: -moz-linear-gradient(left, #0F2737 0%, #3CE5E3 50%, #74DAE7 100%);
-background: -webkit-linear-gradient(left, #0F2737 0%, #3CE5E3 50%, #74DAE7 100%);
-background: linear-gradient(to right, #0F2737 0%, #3CE5E3 50%, #74DAE7 100%);
+background: #0F2737;
+background: -moz-linear-gradient(left, #0F2737 0%, #74DAE7 100%);
+background: -webkit-linear-gradient(left, #0F2737 0%, #74DAE7 100%);
+background: linear-gradient(to right, #0F2737 0%, #74DAE7 100%);
   padding: 30px;
 }
 
@@ -10,6 +10,7 @@ p{
 border: 10px solid black;
 justify-content: center;
 font-size: 60px;
+font-color:white;
 font-type:courier;
 
 }
