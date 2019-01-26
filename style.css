@@ -1,8 +1,5 @@
 html {
-background: #0F2737;
-background: -moz-linear-gradient(left, #0F2737 0%, #74DAE7 100%);
-background: -webkit-linear-gradient(left, #0F2737 0%, #74DAE7 100%);
-background: linear-gradient(to right, #0F2737 0%, #74DAE7 100%);
+border: 10px solid black;
   padding: 30px;
 }
 
